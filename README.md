@@ -3,7 +3,7 @@ WORKSHOP_TITLE
 
 ### posit::conf(2025)
 
-by Malcolm Barrett, and Lucy D'Agostino McGowan
+by Simon Couch
 
 -----
 
