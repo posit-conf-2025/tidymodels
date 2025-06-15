@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Introduction to machine learning in R with tidymodels
 ================
 
 ### posit::conf(2025)
